@@ -15,3 +15,4 @@ Modelling
   Given more time to do the analysis I would work on bringing the diffference of the training and test down because its clearly over-fitting the data.
 
   My next steps then would be to take insights from the model and understand the weights of each coefficients. Once you have the weights you can then segment high    rated movings with its corresponding attributes which would give you a deeper insight and intuition of the variables/models. This would help us better predict given a new data point.
+  Also 
